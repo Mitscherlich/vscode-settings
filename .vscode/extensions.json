@@ -1,0 +1,34 @@
+{
+  "recommendations": [
+    // recommends
+    "antfu.vite",
+    "antfu.where-am-i",
+
+    // themes & icons
+    "fabiospampinato.vscode-monokai-night",
+    "be5invis.vscode-icontheme-nomo-dark",
+
+    // life savers!
+    "dbaeumer.vscode-eslint",
+    "johnsoncodehk.volar",
+    "GitHub.copilot",
+    "usernamehw.errorlens",
+    "streetsidesoftware.code-spell-checker",
+    "stylelint.vscode-stylelint",
+
+    // up to you
+    "ant-design-vue.vscode-ant-design-vue-helper",
+    "amodio.tsl-problem-matcher",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "ms-vscode.sublime-keybindings",
+    "mpontus.tab-cycle",
+    "jock.svg",
+    "naumovs.color-highlight",
+    "richie5um2.vscode-sort-json",
+    "unional.vscode-sort-package-json",
+    "bradlc.vscode-tailwindcss",
+    "WakaTime.vscode-wakatime",
+    "znck.grammarly"
+  ]
+}
